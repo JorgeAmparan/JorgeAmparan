@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # My name
-* JorgeAmparan/JorgeAmparan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> JorgeAmparan/JorgeAmparan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
