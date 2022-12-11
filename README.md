@@ -2,7 +2,7 @@
 
 # I'm Jorge
 
-I'm currently working in a web app for human recourses management at Lappicero Studio
+I'm currently working in a web app project for human recourses management at Lappicero Studio
 
 Currently enrolled in MIT xPRO Professional Certificate in Coding: Full Stack Development with MERN
 
